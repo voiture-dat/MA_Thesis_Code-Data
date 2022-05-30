@@ -1,0 +1,9 @@
+**/beta_plots
+**/RobinhoodClosing
+**/RobinhoodMax
+**/tidy_events_array
+.RData
+**sec_metrics
+**/01_brokerData
+**/02_priceData
+**/03_605RulingData
